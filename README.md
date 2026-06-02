@@ -166,10 +166,17 @@ One script → multiple platforms
 
 ---
 
-# ⚠️ Disclaimer
+## 📚 Documentation
 
-This repository is for educational purposes only.  
-Results depend on consistency, niche selection, and execution.
+* [How It Works](./HOW-IT-WORKS.md)
+* [Pricing Guide](./PRICING.md)
+* [Best Niches](./BEST-NICHES.md)
+* [Alternatives](./ALTERNATIVES.md)
+* [Case Studies](./CASE-STUDIES.md)
+* [FAQ](./FAQ.md)
+
+---
+
 
 ---
 
